@@ -2,7 +2,7 @@
 Burç Rehberi Uygulaması
 Yapmış Olduğum İlk Uygulama.
 
-![5](https://user-images.githubusercontent.com/30291617/80225921-6a7a5b80-8654-11ea-81b3-fae9aafeaf94.jpeg)
+![5]<img src="https://user-images.githubusercontent.com/30291617/80225921-6a7a5b80-8654-11ea-81b3-fae9aafeaf94.jpeg" width="200" height="400" />
 
 
 ![3](https://user-images.githubusercontent.com/30291617/80225952-72d29680-8654-11ea-9199-d316b9d6636f.jpeg)
